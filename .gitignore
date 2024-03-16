@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/SpecFlowSeleniumProject/SpecFlowSeleniumProject/obj
+/SpecFlowSeleniumProject/.vs/SpecFlowSeleniumProject/v17/TestStore/0
+/SpecFlowSeleniumProject/.vs/SpecFlowSeleniumProject
